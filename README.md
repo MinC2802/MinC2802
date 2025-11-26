@@ -14,10 +14,9 @@
   <h3>🎨 Frontend & Design</h3>
   <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,figma&perline=10" />
   <br/>
-  <h3>🎮 Game Dev & Data</h3>
+  <h3>🎮 Game Dev</h3>
   <img src="https://skillicons.dev/icons?i=unity,gamemakerstudio&perline=10" />
   <br/>
-  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=powerbi&logoColor=black" height="40" />
 
   <br/><br/>
 
