@@ -31,6 +31,7 @@
   <a href="https://www.python.org/" target="_blank" title="Python">
     <img src="https://skillicons.dev/icons?i=py" height="40" alt="Python" />
   </a>
+  <br>
   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" title="C#">
     <img src="https://skillicons.dev/icons?i=cs" height="40" alt="C#" />
   </a>
@@ -50,10 +51,6 @@
   <a href="https://www.figma.com/" target="_blank" title="Figma">
     <img src="https://skillicons.dev/icons?i=figma" height="40" alt="Figma" />
   </a>
-  <br/>
-  <a href="https://www.adalo.com/" target="_blank" title="Adalo">
-    <img src="https://img.shields.io/badge/Adalo-FF515D?style=flat-square&logo=adalo&logoColor=white" height="40" />
-  </a>
 
  
   
@@ -63,12 +60,7 @@
   <a href="https://gamemaker.io/" target="_blank" title="GameMaker Studio">
     <img src="https://skillicons.dev/icons?i=gamemakerstudio" height="40" alt="GameMaker" />
   </a>
-  <a href="https://powerbi.microsoft.com/" target="_blank" title="Power BI">
-    <img src="https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=powerbi&logoColor=black" height="40" />
-  </a>
-  <a href="https://www.sas.com/" target="_blank" title="SAS Viya">
-    <img src="https://img.shields.io/badge/SAS_Viya-007AC2?style=flat-square&logo=sas&logoColor=white" height="40" />
-  </a>
+
 
   <br/><br/>
   <br/><br/>
