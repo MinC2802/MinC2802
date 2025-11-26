@@ -21,6 +21,7 @@
   <br/><br/>
 
   <img src="https://github.com/MinC2802/MinC2802/blob/main/github-metrics.svg?raw=true" alt="Metrics" width="450">
+  <img src="https://github.com/MinC2802/MinC2802/raw/output/snake.svg" width="100%" />
   
   <br/><br/>
 
