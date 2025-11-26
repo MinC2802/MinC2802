@@ -7,9 +7,9 @@
   <p>Backend Developer based in Malaysia 🇲🇾</p>
     <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-  <br/>
 <!-- --- LANGUAGES & BACKEND (Individual Hover Icons) --- -->
   <h3>☕ Skills and Tools </h3>
+  <hr>
  <a href="https://www.java.com/" target="_blank" title="Java">
     <img src="https://skillicons.dev/icons?i=java" height="40" alt="Java" />
   </a>
