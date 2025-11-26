@@ -61,7 +61,7 @@
     <img src="https://skillicons.dev/icons?i=gamemakerstudio" height="40" alt="GameMaker" />
   </a>
 
-<hr>
+   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
   <img src="https://github.com/MinC2802/MinC2802/blob/main/github-metrics.svg?raw=true" alt="Metrics" width="450">
   
   <br/>
