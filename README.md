@@ -9,7 +9,7 @@
 
   <br/>
 <!-- --- LANGUAGES & BACKEND (Individual Hover Icons) --- -->
-  <h3>☕ Languages & Backend</h3>
+  <h3>☕ Tools </h3>
  <a href="https://www.java.com/" target="_blank" title="Java">
     <img src="https://skillicons.dev/icons?i=java" height="40" alt="Java" />
   </a>
@@ -35,9 +35,6 @@
     <img src="https://skillicons.dev/icons?i=cs" height="40" alt="C#" />
   </a>
 
-  <!-- --- FRONTEND & DESIGN (Individual Hover Icons) --- -->
-  <h3>🎨 Frontend & Design</h3>
-  
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" title="HTML5">
     <img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML" />
   </a>
@@ -58,8 +55,7 @@
     <img src="https://img.shields.io/badge/Adalo-FF515D?style=flat-square&logo=adalo&logoColor=white" height="40" />
   </a>
 
-  <!-- --- GAME DEV & DATA (Individual Hover Icons) --- -->
-  <h3>🎮 Game Dev</h3>
+ 
   
   <a href="https://unity.com/" target="_blank" title="Unity">
     <img src="https://skillicons.dev/icons?i=unity" height="40" alt="Unity" />
@@ -67,8 +63,6 @@
   <a href="https://gamemaker.io/" target="_blank" title="GameMaker Studio">
     <img src="https://skillicons.dev/icons?i=gamemakerstudio" height="40" alt="GameMaker" />
   </a>
-    <h3>📋 Data</h3>
-  <br/>
   <a href="https://powerbi.microsoft.com/" target="_blank" title="Power BI">
     <img src="https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=powerbi&logoColor=black" height="40" />
   </a>
