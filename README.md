@@ -3,7 +3,7 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2094F3&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Min!;Spring+Boot+Developer;Java+%26+Game+Enthusiast;Always+Learning..." alt="Typing SVG" />
   </a>
-  
+  <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MinC2802&theme=radical&hide_border=true" alt="Streak" />  
 
   <p> Developer based in Malaysia 🇲🇾</p>
