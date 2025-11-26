@@ -6,8 +6,6 @@
 
   <p>Developer based in Malaysia 🇲🇾</p>
   <hr>
-  
-  <br/>
 
   <h3>☕ Languages & Backend</h3>
   <img src="https://skillicons.dev/icons?i=java,spring,mysql,hibernate,maven,git,py,cs&perline=10" />
