@@ -29,10 +29,10 @@
   
   <br/>
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MinC2802&theme=tokyonight&hide_border=true" alt="Streak" />
+<img src="https://streak-stats.demolab.com?user=MinC2802&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
 
   <br/><br/>
 
-  <img src="https://media.giphy.com/media/3o7TKSHAXMgTZq5CNi/giphy.gif" width="100%">
+  <img src="https://media.giphy.com/media/HuK73420p1tQY/giphy.gif" width="100%">
 
 </div>
