@@ -1,11 +1,33 @@
 <div align="center">
-  <h1>Hi, I'm Min!</h1>
-  <p>Spring Boot Developer | Java Enthusiast</p>
+
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2094F3&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Min!;Spring+Boot+Developer;Java+%26+Game+Enthusiast;Always+Learning..." alt="Typing SVG" />
+  </a>
+
+  <p>Backend Developer based in Malaysia 🇲🇾</p>
   
-  <img src="https://skillicons.dev/icons?i=java,spring,mysql,hibernate,html,css,bootstrap,git,maven,js,py,gamemakerstudio,unity,cs,figma&perline=10" />
+  <br/>
+
+  <h3>☕ Languages & Backend</h3>
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,hibernate,maven,git,py,cs&perline=10" />
+
+  <h3>🎨 Frontend & Design</h3>
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,figma&perline=10" />
+  <br/>
+  <img src="https://img.shields.io/badge/Adalo-FF515D?style=flat-square&logo=adalo&logoColor=white" height="40" />
+
+  <h3>🎮 Game Dev & Data</h3>
+  <img src="https://skillicons.dev/icons?i=unity,gamemakerstudio&perline=10" />
+  <br/>
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=powerbi&logoColor=black" height="40" />
+  <img src="https://img.shields.io/badge/SAS_Viya-007AC2?style=flat-square&logo=sas&logoColor=white" height="40" />
+
+  <br/><br/>
+
+  <img src="https://github.com/MinC2802/MinC2802/blob/main/github-metrics.svg?raw=true" alt="Metrics" width="600">
   
   <br/><br/>
 
-  <img src="https://github.com/MinC2802/MinC2802/blob/main/github-metrics.svg?raw=true" alt="Metrics" width="450">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MinC2802&theme=radical&hide_border=true" alt="Streak" />
 
 </div>
