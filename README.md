@@ -18,7 +18,7 @@
   <img src="https://img.shields.io/badge/Adalo-FF515D?style=flat-square&logo=adalo&logoColor=white" height="40" />
 
   <h3>🎮 Game Dev & Data</h3>
-  <img src="https://skillicons.dev/icons?i=unity,gamemakerstudio&perline=10" />
+  <img src="https://skillicons.dev/icons?i=unity,gamemakerstudio,robloxstudio&perline=10" />
   <br/>
   <img src="https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=powerbi&logoColor=black" height="40" />
   <img src="https://img.shields.io/badge/SAS_Viya-007AC2?style=flat-square&logo=sas&logoColor=white" height="40" />
