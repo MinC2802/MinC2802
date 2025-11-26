@@ -59,7 +59,7 @@
   </a>
 
   <!-- --- GAME DEV & DATA (Individual Hover Icons) --- -->
-  <h3>🎮 Game Dev & Data</h3>
+  <h3>🎮 Game Dev</h3>
   
   <a href="https://unity.com/" target="_blank" title="Unity">
     <img src="https://skillicons.dev/icons?i=unity" height="40" alt="Unity" />
@@ -67,6 +67,7 @@
   <a href="https://gamemaker.io/" target="_blank" title="GameMaker Studio">
     <img src="https://skillicons.dev/icons?i=gamemakerstudio" height="40" alt="GameMaker" />
   </a>
+    <h3>📋 Data</h3>
   <br/>
   <a href="https://powerbi.microsoft.com/" target="_blank" title="Power BI">
     <img src="https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=powerbi&logoColor=black" height="40" />
