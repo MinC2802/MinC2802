@@ -9,7 +9,6 @@
 
 <!-- --- LANGUAGES & BACKEND (Individual Hover Icons) --- -->
   <h3>☕ Skills and Tools </h3>
-  <hr>
  <a href="https://www.java.com/" target="_blank" title="Java">
     <img src="https://skillicons.dev/icons?i=java" height="40" alt="Java" />
   </a>
