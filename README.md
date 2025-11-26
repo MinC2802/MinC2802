@@ -6,7 +6,6 @@
 
   <p>Developer based in Malaysia 🇲🇾</p>
   <hr>
-   <img src=https://www.google.com/url?sa=i&url=https%3A%2F%2Funsplash.com%2Fs%2Fphotos%2Ftechnology-background&psig=AOvVaw1r3ay8G9Ll2VXDrO38GTpC&ust=1764260650489000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCKDBwJydkJEDFQAAAAAdAAAAABAE>
   
   <br/>
 
