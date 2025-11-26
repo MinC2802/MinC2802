@@ -9,20 +9,72 @@
 
   <br/>
 
-  <h3>☕ Languages & Backend</h3>
-  <img src="https://skillicons.dev/icons?i=java,spring,mysql,hibernate,maven,git,py,cs&perline=10" />
+ <a href="https://www.java.com/" target="_blank" title="Java">
+    <img src="https://skillicons.dev/icons?i=java" height="40" alt="Java" />
+  </a>
+  <a href="https://spring.io/" target="_blank" title="Spring Boot">
+    <img src="https://skillicons.dev/icons?i=spring" height="40" alt="Spring" />
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" title="MySQL">
+    <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="MySQL" />
+  </a>
+  <a href="https://hibernate.org/" target="_blank" title="Hibernate">
+    <img src="https://skillicons.dev/icons?i=hibernate" height="40" alt="Hibernate" />
+  </a>
+  <a href="https://maven.apache.org/" target="_blank" title="Maven">
+    <img src="https://skillicons.dev/icons?i=maven" height="40" alt="Maven" />
+  </a>
+  <a href="https://git-scm.com/" target="_blank" title="Git">
+    <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git" />
+  </a>
+  <a href="https://www.python.org/" target="_blank" title="Python">
+    <img src="https://skillicons.dev/icons?i=py" height="40" alt="Python" />
+  </a>
+  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" title="C#">
+    <img src="https://skillicons.dev/icons?i=cs" height="40" alt="C#" />
+  </a>
 
+  <!-- --- FRONTEND & DESIGN (Individual Hover Icons) --- -->
   <h3>🎨 Frontend & Design</h3>
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,figma&perline=10" />
+  
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" title="HTML5">
+    <img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" title="CSS3">
+    <img src="https://skillicons.dev/icons?i=css" height="40" alt="CSS" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" title="JavaScript">
+    <img src="https://skillicons.dev/icons?i=js" height="40" alt="JavaScript" />
+  </a>
+  <a href="https://getbootstrap.com/" target="_blank" title="Bootstrap">
+    <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="Bootstrap" />
+  </a>
+  <a href="https://www.figma.com/" target="_blank" title="Figma">
+    <img src="https://skillicons.dev/icons?i=figma" height="40" alt="Figma" />
+  </a>
   <br/>
-  <img src="https://img.shields.io/badge/Adalo-FF515D?style=flat-square&logo=adalo&logoColor=white" height="40" />
+  <a href="https://www.adalo.com/" target="_blank" title="Adalo">
+    <img src="https://img.shields.io/badge/Adalo-FF515D?style=flat-square&logo=adalo&logoColor=white" height="40" />
+  </a>
 
+  <!-- --- GAME DEV & DATA (Individual Hover Icons) --- -->
   <h3>🎮 Game Dev & Data</h3>
-  <img src="https://skillicons.dev/icons?i=unity,gamemakerstudio,robloxstudio&perline=10" />
+  
+  <a href="https://unity.com/" target="_blank" title="Unity">
+    <img src="https://skillicons.dev/icons?i=unity" height="40" alt="Unity" />
+  </a>
+  <a href="https://gamemaker.io/" target="_blank" title="GameMaker Studio">
+    <img src="https://skillicons.dev/icons?i=gamemakerstudio" height="40" alt="GameMaker" />
+  </a>
   <br/>
-  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=powerbi&logoColor=black" height="40" />
-  <img src="https://img.shields.io/badge/SAS_Viya-007AC2?style=flat-square&logo=sas&logoColor=white" height="40" />
+  <a href="https://powerbi.microsoft.com/" target="_blank" title="Power BI">
+    <img src="https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=powerbi&logoColor=black" height="40" />
+  </a>
+  <a href="https://www.sas.com/" target="_blank" title="SAS Viya">
+    <img src="https://img.shields.io/badge/SAS_Viya-007AC2?style=flat-square&logo=sas&logoColor=white" height="40" />
+  </a>
 
+  <br/><br/>
   <br/><br/>
 
   <img src="https://github.com/MinC2802/MinC2802/blob/main/github-metrics.svg?raw=true" alt="Metrics" width="450">
