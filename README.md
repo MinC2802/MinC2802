@@ -3,6 +3,8 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2094F3&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Min!;Spring+Boot+Developer;Java+%26+Game+Enthusiast;Always+Learning..." alt="Typing SVG" />
   </a>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MinC2802&theme=radical&hide_border=true" alt="Streak" />  
 
   <p> Developer based in Malaysia 🇲🇾</p>
     <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
@@ -65,7 +67,6 @@
   
   <br/>
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MinC2802&theme=radical&hide_border=true" alt="Streak" />  
 
   <br/><br/>
 
