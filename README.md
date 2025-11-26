@@ -1,7 +1,7 @@
 <div align="center">
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2094F3&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Min!;Aspiring+Developer;Everyone+falls.+But+I'll+catch+everyone+I+can;Always+Learning..." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2094F3&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Min!;Aspiring+Developer;I've+learned+to+love+falling,+too;Always+Learning..." alt="Typing SVG" />
   </a>
 
   <p> Developer based in Malaysia 🇲🇾</p>
