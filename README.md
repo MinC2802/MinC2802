@@ -1,4 +1,4 @@
-<div align="center">
+<img width="3000" height="1593" alt="image" src="https://github.com/user-attachments/assets/b512f018-ed87-4d31-b37f-56169ecb17fe" /><div align="center">
 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2094F3&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Min!;Nerd+and+Developer;Java+%26+Magic+Enthusiast;Always+Learning..." alt="Typing SVG" />
@@ -6,8 +6,7 @@
 
   <p>Developer based in Malaysia 🇲🇾</p>
   <hr>
-   <h3>🐈 Contributions</h3>
-  <img src="https://github.com/MinC2802/MinC2802/raw/output/snake.svg" width="100%" />
+   <img src=https://www.google.com/url?sa=i&url=https%3A%2F%2Funsplash.com%2Fs%2Fphotos%2Ftechnology-background&psig=AOvVaw1r3ay8G9Ll2VXDrO38GTpC&ust=1764260650489000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCKDBwJydkJEDFQAAAAAdAAAAABAE>
   
   <br/>
 
