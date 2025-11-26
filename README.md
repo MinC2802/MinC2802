@@ -5,6 +5,8 @@
   </a>
 
   <p>Developer based in Malaysia 🇲🇾</p>
+  <br/><br>
+  <img src="https://github.com/MinC2802/MinC2802/raw/output/snake.svg" width="100%" />
   
   <br/>
 
@@ -26,7 +28,6 @@
 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MinC2802&theme=radical&hide_border=true" alt="Streak" />
 
-  <br/><br>
-  <img src="https://github.com/MinC2802/MinC2802/raw/output/snake.svg" width="100%" />
+
 
 </div>
