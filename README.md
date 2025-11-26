@@ -2,7 +2,7 @@
   <h1>Hi, I'm Min!</h1>
   <p>Spring Boot Developer | Java Enthusiast</p>
   
-  <img src="https://skillicons.dev/icons?i=java,spring,mysql,hibernate,html,css,bootstrap,git,maven,javascript,python&perline=10" />
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,hibernate,html,css,bootstrap,git,maven,javascript,python,gamemaker,unity,C#&perline=10" />
   
   <br/><br/>
 
