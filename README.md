@@ -5,7 +5,8 @@
   </a>
 
   <p>Backend Developer based in Malaysia 🇲🇾</p>
-  
+    <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
   <br/>
 
   <h3>☕ Languages & Backend</h3>
@@ -24,7 +25,7 @@
 
   <br/><br/>
 
-  <img src="https://github.com/MinC2802/MinC2802/blob/main/github-metrics.svg?raw=true" alt="Metrics" width="600">
+  <img src="https://github.com/MinC2802/MinC2802/blob/main/github-metrics.svg?raw=true" alt="Metrics" width="450">
   
   <br/>
   
