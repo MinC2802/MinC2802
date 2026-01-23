@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2094F3&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Min!;Aspiring+Developer;Totslly+Chalant;Always+Learning..." alt="Typing SVG" />
   </a>
 
-  <p> Developer based in Malaysia 🇲🇾</p>
+  <p> Dumb Person from Malaysia 🇲🇾</p>
     <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 <!-- --- LANGUAGES & BACKEND (Individual Hover Icons) --- -->
