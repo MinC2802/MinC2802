@@ -58,7 +58,6 @@
   </a>
   
 <br></br>
-   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
      <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MinC2802&theme=radical&hide_border=true" alt="Streak" />  
   <img src="https://github.com/MinC2802/MinC2802/blob/main/github-metrics.svg?raw=true" alt="Metrics" width="450">
@@ -68,7 +67,6 @@
 
   <br/><br/>
 
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 </div>
 
