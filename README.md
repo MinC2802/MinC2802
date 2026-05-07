@@ -32,9 +32,7 @@
     <img src="https://skillicons.dev/icons?i=cs" height="40" alt="C#" />
   </a>
 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" title="HTML5">
-    <img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML" />
-  </a>
+
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" title="CSS3">
     <img src="https://skillicons.dev/icons?i=css" height="40" alt="CSS" />
   </a>
