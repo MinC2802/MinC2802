@@ -43,6 +43,8 @@ me = Min()
   <img src="https://skillicons.dev/icons?i=python,java,html,css,js,postgres,mysql" />
 </p>
 
+Python · Java · HTML · CSS · Javascript · PostgreSQL · MySQL
+
 **Frameworks & Tools**
 
 <p>
