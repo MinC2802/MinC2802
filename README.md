@@ -12,19 +12,7 @@
 class Min:
     name = "Charlie"
     status = "Currently under development"
-    coffee = True
     sleep = None
-
-    def get_stack(self):
-        return [
-            "Python",
-            "Java",
-            "HTML",
-            "CSS",
-            "JavaScript",
-            "PostgreSQL",
-            "MySQL"
-        ]
 
     def introduce(self):
         print("Hello, World!")
@@ -32,6 +20,15 @@ class Min:
 
 me = Min()
 ```
+
+
+---
+
+### Currently Learning:
+
+- Django - React - Node.js
+- PHP - C# - C++ - Kotlin 
+- Firebase - Vercel - MongoDB
 
 </td>
 <td width="52%" valign="top">
@@ -53,14 +50,6 @@ Python · Java · HTML · CSS · Javascript · PostgreSQL · MySQL
 </p>
 
 Spring Boot · Thymeleaf
-
----
-
-### Currently Learning:
-
-- Django - React - Node.js
-- PHP - C# - C++ - Kotlin 
-- Firebase - Vercel - MongoDB
 
 </td>
 </tr>
