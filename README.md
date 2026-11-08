@@ -2,6 +2,19 @@
 <!-- <p align="center">
   <img src="./assets/banner.gif" width="100%" height="100" />
 </p> -->
+<div align="center">
+
+<br>
+
+# "Some people when confronted with a problem think,
+
+# 'I know, I'll use regular expressions.'
+
+# Now they have two problems."
+
+<br>
+
+</div>
 
 <div align="center">
 <table width="100%">
