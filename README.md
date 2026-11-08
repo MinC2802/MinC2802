@@ -3,6 +3,7 @@
   <img src="./assets/banner.gif" width="100%" height="200" />
 </p>
 
+<div align="center">
 <table width="100%">
 <tr>
 <td width="48%" valign="top">
@@ -81,3 +82,5 @@ Spring Boot · Thymeleaf
 ### Find Me:
 
 [LinkedIn](YOUR_LINKEDIN_URL) · [Website](YOUR_WEBSITE_URL)
+
+</div>
