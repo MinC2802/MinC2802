@@ -1,6 +1,6 @@
 <!-- HEADER BANNER -->
 <p align="center">
-  <img src="./assets/banner.gif" width="100%" height="200" />
+  <img src="./assets/banner.gif" width="100%" height="50" />
 </p>
 
 <div align="center">
