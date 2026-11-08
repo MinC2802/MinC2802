@@ -58,16 +58,9 @@ Spring Boot · Thymeleaf
 
 ### Currently Learning:
 
-- Django
-- React
-- Node.js
-- PHP
-- C# 
-- C++
-- Kotlin 
-- Firebase 
-- Vercel 
-- MongoDB
+- Django - React - Node.js
+- PHP - C# - C++ - Kotlin 
+- Firebase - Vercel - MongoDB
 
 </td>
 </tr>
