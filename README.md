@@ -16,7 +16,7 @@ class Min:
 
     def introduce(self):
         print("Hello, World!")
-        print("Still figuring things out.")
+        print("...You like playing wuwa? :3")
 
 me = Min()
 ```
